@@ -6,3 +6,14 @@ Autoplay mode and seek bar mode
 
 API used-
 Google Map API
+
+
+Screenshots-
+
+1) ![Timeline Map](https://github.com/lakshyab1995/timeline_map/blob/master/Screenshots/screenshot-1.png?raw=true "Timeline Map")
+
+2) ![Autoplay mode-1](https://github.com/lakshyab1995/timeline_map/blob/master/Screenshots/screenshot-2.png?raw=true "Autoplay mode-1")
+
+3) ![Autoplay mode-2](https://github.com/lakshyab1995/timeline_map/blob/master/Screenshots/screenshot-3.png?raw=true "Autoplay mode-2")
+
+4) ![Seekbar mode](https://github.com/lakshyab1995/timeline_map/blob/master/Screenshots/screenshot-4.png?raw=true "Seekbar mode")
