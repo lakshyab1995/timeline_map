@@ -1,4 +1,4 @@
-**Timeline Visualization Android Application**
+# Timeline Visualization Android Application #
 
 Representing locations(latitudes,longitudes) on map using Heat map utility.
 
