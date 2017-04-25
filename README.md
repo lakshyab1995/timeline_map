@@ -11,10 +11,10 @@ Google Map API
 
 **Screenshots-**
 
-1. ![Timeline Map](https://github.com/lakshyab1995/timeline_map/blob/master/Screenshots/screenshot-1.png =600x700 "Timeline Map")
+1. <img src="https://github.com/lakshyab1995/timeline_map/blob/master/Screenshots/screenshot-1.png" width="600" height="700" alt="Timeline Map">
 
-2. ![Autoplay mode-1](https://github.com/lakshyab1995/timeline_map/blob/master/Screenshots/screenshot-2.png =600x700 "Autoplay mode-1")
+2. <img src="https://github.com/lakshyab1995/timeline_map/blob/master/Screenshots/screenshot-2.png" width="600" height="700" alt="Autoplay mode-1">
 
-3. ![Autoplay mode-2](https://github.com/lakshyab1995/timeline_map/blob/master/Screenshots/screenshot-3.png =600x700 "Autoplay mode-2")
+3. <img src="https://github.com/lakshyab1995/timeline_map/blob/master/Screenshots/screenshot-3.png" width="600" height="700" alt="Autoplay mode-2">
 
-4. ![Seekbar mode](https://github.com/lakshyab1995/timeline_map/blob/master/Screenshots/screenshot-4.png =600x700 "Seekbar mode")
+4. <img src="https://github.com/lakshyab1995/timeline_map/blob/master/Screenshots/screenshot-4.png" width="600" height="700" alt="Seekbar mode">
